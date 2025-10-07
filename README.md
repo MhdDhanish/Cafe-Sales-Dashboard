@@ -6,7 +6,7 @@ It helped me learn how to clean data, create visuals, and get real insights from
 📊 About the Project
 I used a dataset of cafe sales to explore how sales change over time, which items sell the most, and what payment methods customers prefer.
 
-⚙️ What I did
+🔧 What I did
 
 🧹Cleaned and transformed the data using Power Query  
 🧮Created DAX measures like Total Sales, Quantity, and Unique Customers  
